@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Se creó la carpeta archivos porque ya existe un archivo dentro de ella.
 =======
 Oswaldo Andres Peña, 27 años, aprender POO
->>>>>>> 5a981eb (Add merge.txt)
