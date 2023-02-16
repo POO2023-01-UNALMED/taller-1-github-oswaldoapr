@@ -1,0 +1,1 @@
+Se creó la carpeta archivos porque ya existe un archivo dentro de ella.
