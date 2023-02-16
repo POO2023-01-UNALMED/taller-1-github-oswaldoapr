@@ -1,3 +1,5 @@
 Se creó la carpeta archivos porque ya existe un archivo dentro de ella.
 =======
 Oswaldo Andres Peña, 27 años, aprender POO
+=======
+Es importante resolver los conflictos
